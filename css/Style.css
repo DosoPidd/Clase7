@@ -1,0 +1,53 @@
+.headerBatman {
+    padding-left: 0px;
+    text-align: center;
+    height: 188.19px;
+background: #E6E6E6;
+}
+
+.hfirst {
+    text-align: center;
+    height: 60px;
+    width: 1263px;
+color: rgba(0, 86, 119, 1);
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 84.69%;
+/* identical to box height, or 30px */
+
+font-feature-settings: 'cpsp' on;
+background: #C4C4C4;
+
+
+}
+
+.hsecond {
+    text-align: left;
+    width: 1263px;
+color: rgba(0, 86, 119, 1);
+
+background: #C4C4C4;
+}
+
+
+.foBatmanFo {
+    text-align: center;
+    width: 1243px;
+background: rgba(0, 86, 119, 1);
+
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+/* identical to box height, or 17px */
+
+
+color: #FFFFFF;
+}
+.todoleft{
+    style= "padding-left: 1px;"
+}
